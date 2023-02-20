@@ -1,0 +1,5 @@
+• Server: sqlservercentralpublic.database.windows.net (Links to an external site.)
+• Database: AdventureWorks
+Select SQL login option from the Dropdown
+• User: sqlfamily
+• Password: sqlf@m1ly
